@@ -1,1 +1,1 @@
-DROP TABLE *;
+CREATE TABLE grades;
